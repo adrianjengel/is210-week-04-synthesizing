@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Task 01 WK4 synthesizing."""
+"""Task 01 WK4 synthesizing - Choosing colors."""
 
 
 ACIN = 'accent'
